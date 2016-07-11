@@ -8,8 +8,8 @@
     <ProjectGuid>{541EC4B8-4A93-45F3-9BDA-169E153D8814}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>vigenre_square_cipher_dll</RootNamespace>
-    <AssemblyName>vigenre_square_cipher</AssemblyName>
+    <RootNamespace>vigenere_square_cipher_dll</RootNamespace>
+    <AssemblyName>vigenere_square_cipher</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

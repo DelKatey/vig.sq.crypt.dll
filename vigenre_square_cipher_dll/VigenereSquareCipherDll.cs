@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace vigenre_square_cipher_dll
+namespace vigenere_square_cipher_dll
 {
-    public class VigenreSquareCipher
+    public class VigenereSquareCipher
     {
         private static readonly string[] AlphabetList = { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K",
 													"L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", 

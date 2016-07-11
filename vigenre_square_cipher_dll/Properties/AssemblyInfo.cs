@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("vigenre_square_cipher_dll")]
+[assembly: AssemblyTitle("vigenere_square_cipher_dll")]
 [assembly: AssemblyDescription("Coded by @DelKatey on Twitter.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("vigenre_square_cipher_dll")]
+[assembly: AssemblyProduct("vigenere_square_cipher_dll")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
