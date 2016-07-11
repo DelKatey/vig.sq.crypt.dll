@@ -2,6 +2,9 @@
 
 This repository contains all the files needed to compile a working version of the **vigenere_square_cipher.dll**. This DLL can then be used in other projects without needing to possibly make your code look messier with the source code used for the DLL.
 
+If you're looking for the GUI version, this is not it. You can find that [here](https://github.com/DelKatey/vig.sq.crypt.gui).
+If you're looking for the command-line version, this is also not it. You can find that [here](https://github.com/DelKatey/vig.sq.crypt).
+
 ## Usage Example
 
 An example of how you can call the DLL to help you encrypt a plaintext message is:
