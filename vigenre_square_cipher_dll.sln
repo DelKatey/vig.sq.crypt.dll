@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vigenre_square_cipher_dll", "vigenre_square_cipher_dll\vigenre_square_cipher_dll.csproj", "{541EC4B8-4A93-45F3-9BDA-169E153D8814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{541EC4B8-4A93-45F3-9BDA-169E153D8814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541EC4B8-4A93-45F3-9BDA-169E153D8814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541EC4B8-4A93-45F3-9BDA-169E153D8814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541EC4B8-4A93-45F3-9BDA-169E153D8814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
